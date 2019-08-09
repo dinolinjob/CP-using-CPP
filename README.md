@@ -1,1 +1,1 @@
-# Competitive-Programming-using-C-
+# Competitive Programming using C++
